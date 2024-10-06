@@ -1,2 +1,2 @@
 # JavaScript-Revision
-Practicing JavaScript from Chai aur Code 
+A code repo for Practicing JavaScript from Chai aur Code 
